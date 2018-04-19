@@ -1,0 +1,28 @@
+AWS credentials:
+account #
+username
+password
+
+AWS  Drupal:
+
+drupalbeansta-4r78u-env.us-east-2.elasticbeanstalk.com/ - currently used
+drupalbeanstalk3-env.us-east-2.elasticbeanstalk.com - identical copy
+
+
+Code repository: https://github.com/gitanna/longevitygenomics
+DB backup: https://github.com/gitanna/longevitydb
+
+Drupal CMS credentials:
+username
+password
+
+Drupal CMS tutorial:
+https://www.drupal.org/node/877140
+
+AWS drupal deployment:
+https://aws.amazon.com/about-aws/whats-new/2018/02/deploy-drupal-on-the-aws-cloud-with-new-quick-start/
+https://aws.amazon.com/getting-started/projects/build-drupal-website/
+
+AWS domain change:
+https://aws.amazon.com/getting-started/tutorials/get-a-domain/
+
