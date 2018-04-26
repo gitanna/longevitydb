@@ -1,5 +1,8 @@
+Drupal installation:
+https://garysferrao.github.io/drupal-8/ubuntu-16.04/2016/05/06/drupal-8-on-ubuntu-16.04.html
+
 AWS credentials:
-account #
+account
 username
 password
 
@@ -11,6 +14,9 @@ drupalbeanstalk3-env.us-east-2.elasticbeanstalk.com - identical copy
 
 Code repository: https://github.com/gitanna/longevitygenomics
 DB backup: https://github.com/gitanna/longevitydb
+documentation:
+https://github.com/gitanna/longevitydb/tree/master/docs
+
 
 Drupal CMS credentials:
 username
@@ -18,10 +24,16 @@ password
 
 Drupal CMS tutorial:
 https://www.drupal.org/node/877140
+OSTraining videos/book
 
 AWS drupal deployment:
 https://aws.amazon.com/about-aws/whats-new/2018/02/deploy-drupal-on-the-aws-cloud-with-new-quick-start/
 https://aws.amazon.com/getting-started/projects/build-drupal-website/
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hadrupal-tutorial.html
+
+Drupal theme:
+https://www.drupal.org/docs/8/extending-drupal-8/installing-themes
+https://www.drupal.org/forum/support/theme-development/2017-11-12/how-to-change-the-theme-without-drupal-appearance-menu
 
 AWS domain change:
 https://aws.amazon.com/getting-started/tutorials/get-a-domain/
